@@ -3,5 +3,3 @@ node_modules
 .gitignore
 *.md
 !README*.md
-examples
-deploy.sh
