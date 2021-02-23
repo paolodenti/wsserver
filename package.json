@@ -1,0 +1,14 @@
+{
+    "name": "wsserver",
+    "version": "1.0.0",
+    "description": "log websocket server",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Paolo Denti",
+    "license": "ISC",
+    "dependencies": {
+        "ws": "^7.4.3"
+    }
+}
